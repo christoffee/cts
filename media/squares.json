@@ -1,0 +1,44 @@
+{"frames": {
+
+"blue-square.png":
+{
+	"frame": {"x":278,"y":2,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"green-square.png":
+{
+	"frame": {"x":186,"y":2,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"red-square.png":
+{
+	"frame": {"x":94,"y":2,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"yellow-square.png":
+{
+	"frame": {"x":2,"y":2,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "squares.png",
+	"format": "RGBA8888",
+	"size": {"w":370,"h":94},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d191ca3ef5c0be4e5425dc76de551a3d:79cd57a9c80189c628f3a439905cda12:d813efeb37357a6b5f7a076bf6a0d46e$"
+}
+}

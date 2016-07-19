@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+   <font>
+       <info aa='1' size='130' smooth='1' stretchH='100' bold='0' padding='0,0,0,0' spacing='0,0' charset='' italic='0' unicode='0' face='ctsFONTscore'/>
+       <common scaleW='384' packed='0' pages='1' lineHeight='136' scaleH='384' base='136'/>
+       <pages>
+            <page id='0' file='ctsFONTscore.png'/>
+       </pages>
+        <chars count='11'>
+            <char xadvance='82' x='0' chnl='0' yoffset='130' y='366' xoffset='0' id='32' page='0' height='0' width='0'/>
+            <char xadvance='98' x='244' chnl='0' yoffset='16' y='122' xoffset='0' id='48' page='0' height='122' width='92'/>
+            <char xadvance='65' x='184' chnl='0' yoffset='16' y='122' xoffset='0' id='49' page='0' height='122' width='60'/>
+            <char xadvance='98' x='92' chnl='0' yoffset='16' y='244' xoffset='0' id='50' page='0' height='122' width='92'/>
+            <char xadvance='98' x='92' chnl='0' yoffset='16' y='122' xoffset='0' id='51' page='0' height='122' width='92'/>
+            <char xadvance='98' x='276' chnl='0' yoffset='16' y='0' xoffset='0' id='52' page='0' height='122' width='92'/>
+            <char xadvance='98' x='184' chnl='0' yoffset='16' y='0' xoffset='0' id='53' page='0' height='122' width='92'/>
+            <char xadvance='98' x='92' chnl='0' yoffset='16' y='0' xoffset='0' id='54' page='0' height='122' width='92'/>
+            <char xadvance='98' x='0' chnl='0' yoffset='16' y='244' xoffset='0' id='55' page='0' height='122' width='92'/>
+            <char xadvance='98' x='0' chnl='0' yoffset='16' y='122' xoffset='0' id='56' page='0' height='122' width='92'/>
+            <char xadvance='98' x='0' chnl='0' yoffset='16' y='0' xoffset='0' id='57' page='0' height='122' width='92'/>
+       </chars>
+   </font>
